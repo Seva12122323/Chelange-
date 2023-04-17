@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1681755942 source:/home/matey/Proga/899988/main.cpp
+	<string>
+	<stdio.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<iostream>
+	<vector>
+	<math.h>
+	<fstream>
+
